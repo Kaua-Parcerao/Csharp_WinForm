@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\While Média\While Média\bin\Debug\net8.0-windows\While Média.exe
+C:\Users\senai\source\repos\While Média\While Média\bin\Debug\net8.0-windows\While Média.deps.json
+C:\Users\senai\source\repos\While Média\While Média\bin\Debug\net8.0-windows\While Média.runtimeconfig.json
+C:\Users\senai\source\repos\While Média\While Média\bin\Debug\net8.0-windows\While Média.dll
+C:\Users\senai\source\repos\While Média\While Média\bin\Debug\net8.0-windows\While Média.pdb
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While_Média.Form1.resources
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While Média.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While Média.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While Média.AssemblyInfo.cs
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While Média.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While Média.dll
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\refint\While Média.dll
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While Média.pdb
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\While Média.genruntimeconfig.cache
+C:\Users\senai\source\repos\While Média\While Média\obj\Debug\net8.0-windows\ref\While Média.dll
