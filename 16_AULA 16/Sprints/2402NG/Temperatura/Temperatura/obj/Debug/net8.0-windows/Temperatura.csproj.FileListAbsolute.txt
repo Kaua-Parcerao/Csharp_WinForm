@@ -1,0 +1,16 @@
+C:\Users\senai\source\repos\Temperatura\Temperatura\bin\Debug\net8.0-windows\Temperatura.exe
+C:\Users\senai\source\repos\Temperatura\Temperatura\bin\Debug\net8.0-windows\Temperatura.deps.json
+C:\Users\senai\source\repos\Temperatura\Temperatura\bin\Debug\net8.0-windows\Temperatura.runtimeconfig.json
+C:\Users\senai\source\repos\Temperatura\Temperatura\bin\Debug\net8.0-windows\Temperatura.dll
+C:\Users\senai\source\repos\Temperatura\Temperatura\bin\Debug\net8.0-windows\Temperatura.pdb
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.Form1.resources
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.csproj.GenerateResource.cache
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.AssemblyInfoInputs.cache
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.AssemblyInfo.cs
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.dll
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\refint\Temperatura.dll
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.pdb
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\Temperatura.genruntimeconfig.cache
+C:\Users\senai\source\repos\Temperatura\Temperatura\obj\Debug\net8.0-windows\ref\Temperatura.dll
